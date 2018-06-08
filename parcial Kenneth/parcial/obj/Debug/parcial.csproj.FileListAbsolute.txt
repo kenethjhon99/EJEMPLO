@@ -1,0 +1,18 @@
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\bin\Debug\parcial.exe.config
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\obj\Debug\parcial.csprojResolveAssemblyReference.cache
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\obj\Debug\parcial.Form1.resources
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\obj\Debug\parcial.Properties.Resources.resources
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\obj\Debug\parcial.csproj.GenerateResource.Cache
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\bin\Debug\parcial.exe
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\bin\Debug\parcial.pdb
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\obj\Debug\parcial.exe
+C:\Users\Luis Alvarez\Documents\Visual Studio 2012\Projects\parcial\parcial\obj\Debug\parcial.pdb
+D:\disco c\Desktop\parcial\parcial\bin\Debug\parcial.exe.config
+D:\disco c\Desktop\parcial\parcial\obj\Debug\parcial.exe
+D:\disco c\Desktop\parcial\parcial\obj\Debug\parcial.pdb
+D:\disco c\Desktop\parcial\parcial\obj\Debug\parcial.csprojResolveAssemblyReference.cache
+D:\disco c\Desktop\parcial\parcial\obj\Debug\parcial.Form1.resources
+D:\disco c\Desktop\parcial\parcial\obj\Debug\parcial.Properties.Resources.resources
+D:\disco c\Desktop\parcial\parcial\obj\Debug\parcial.csproj.GenerateResource.Cache
+D:\disco c\Desktop\parcial\parcial\bin\Debug\parcial.exe
+D:\disco c\Desktop\parcial\parcial\bin\Debug\parcial.pdb
